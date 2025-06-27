@@ -60,6 +60,7 @@ Avvio dell'Applicazione
 Se hai installato http-server globalmente (opzionale, per un server locale):
 
 npm install -g http-server
+
 http-server .
 
 L'applicazione sarà accessibile all'indirizzo mostrato dal server (es. http://localhost:8080).
