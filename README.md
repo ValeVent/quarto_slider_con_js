@@ -10,24 +10,24 @@ Il carosello è progettato per visualizzare una serie di immagini con un effetto
 
 ## Tecnologie Utilizzate
 
-- HTML5: Struttura semantica del carosello e contenitore delle immagini.
+- **HTML5**: Struttura semantica del carosello e contenitore delle immagini.
 
-- Tailwind CSS: Utilizzato per lo styling rapido e responsivo, gestendo il layout, le dimensioni, la posizione e gli effetti visivi direttamente tramite classi utility.
+- **Tailwind CSS**: Utilizzato per lo styling rapido e responsivo, gestendo il layout, le dimensioni, la posizione e gli effetti visivi direttamente tramite classi utility.
 
-- JavaScript: Logica per la gestione della navigazione del carosello, l'aggiornamento delle immagini visibili e la sincronizzazione con gli indicatori.
+- **JavaScript**: Logica per la gestione della navigazione del carosello, l'aggiornamento delle immagini visibili e la sincronizzazione con gli indicatori.
 
-- Font Awesome: Fornisce le icone delle frecce per la navigazione.
+- **Font Awesome**: Fornisce le icone delle frecce per la navigazione.
 
 
 ## Funzionalità Principali
 
-- Visualizzazione a Tre Immagini: Mostra un'immagine centrale e due laterali, con la centrale più grande.
+- **Visualizzazione a Tre Immagini**: Mostra un'immagine centrale e due laterali, con la centrale più grande.
 
-- Navigazione con Frecce: Freccette sinistra e destra per sfogliare le immagini.
+- **Navigazione con Frecce**: Freccette sinistra e destra per sfogliare le immagini.
 
-- Indicatori di Posizione: Piccoli puntini sotto il carosello che indicano l'immagine attualmente visualizzata e permettono la navigazione diretta.
+- **Indicatori di Posizione**: Piccoli puntini sotto il carosello che indicano l'immagine attualmente visualizzata e permettono la navigazione diretta.
 
-- Transizioni Fluide: Passaggio delle immagini gestito tramite classi CSS (hidden) e logica JavaScript.
+- **Transizioni Fluide**: Passaggio delle immagini gestito tramite classi CSS (hidden) e logica JavaScript.
 
 
 ## Come Avviare il Progetto
@@ -69,8 +69,8 @@ L'applicazione sarà accessibile all'indirizzo mostrato dal server (es. http://l
 Questo progetto è un esempio funzionale di carosello di immagini dinamico, realizzato con HTML, JavaScript e Tailwind CSS per una gestione efficiente dello stile.
 
 ## Contatti
-GitHub: https://github.com/ValeVent
+- **GitHub**: https://github.com/ValeVent
 
-LinkedIn: https://www.linkedin.com/in/valentina-venturo
+- **LinkedIn**: https://www.linkedin.com/in/valentina-venturo
 
-Sito Web: http://www.valentinaventuro.it
+- **Sito Web**: http://www.valentinaventuro.it
